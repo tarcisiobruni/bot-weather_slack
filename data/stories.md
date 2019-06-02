@@ -9,7 +9,7 @@
     - slot{"location": "italy"}
 * goodbye
     - utter_goodbye
-    - export
+
 ## Generated Story -3351152636827275381
 * greet
     - utter_greet
@@ -18,7 +18,7 @@
     - action_weather
 * goodbye
     - utter_goodbye
-    - export
+
 ## Generated Story 8921121480760034253
 * greet
     - utter_greet
@@ -28,20 +28,8 @@
     - slot{"location": "London"}
     - action_weather
 * goodbye
-    - utter_goodbye
-    - export
-## Generated Story -5208991511085841103
-    - slot{"location": "London"}
-    - action_weather
-* goodbye
-    - utter_goodbye
-    - export
-## Generated Story -5208991511085841103
-    - slot{"location": "London"}
-    - action_weather
-* goodbye
-    - utter_goodbye
-    - export
+    - utter_goodbye    
+
 ## story_001
 * greet
    - utter_greet
@@ -52,6 +40,7 @@
    - action_weather
 * goodbye
    - utter_goodbye
+
 ## story_002
 * greet
    - utter_greet
@@ -60,6 +49,7 @@
    - action_weather
 * goodbye
    - utter_goodbye 
+
 ## story_003
 * greet
    - utter_greet
@@ -70,6 +60,7 @@
    - action_weather
 * goodbye
    - utter_goodbye
+
 ## story_004
 * greet
    - utter_greet
@@ -78,6 +69,7 @@
    - action_weather
 * goodbye
    - utter_goodbye 
+
 ## story_005
 * greet
    - utter_greet
@@ -88,6 +80,7 @@
    - action_weather
 * goodbye
    - utter_goodbye
+   
 ## Generated Story -5196249364321707892
 * greet
     - utter_greet
