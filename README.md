@@ -70,6 +70,6 @@ Esses material foi produzido a partir de uma série de outros repositórios, mat
 - [Rasa HQ](https://github.com/RasaHQ/rasa) 
 - [Weather Tutorial](https://github.com/JustinaPetr/Weatherbot_Tutorial)
 - [Building-a-Conversational-Chatbot-for-Slack-using-Rasa-and-Python](https://github.com/parulnith/Building-a-Conversational-Chatbot-for-Slack-using-Rasa-and-Python)
-
-
+- [Building a Conversational Chatbot for Slack using Rasa and Python Artigo](https://towardsdatascience.com/building-a-conversational-chatbot-for-slack-using-rasa-and-python-part-1-bca5cc75d32f)
+- [Building a chatbot With Rasa NLU and Rasa Core](https://www.youtube.com/watch?v=xu6D_vLP5vY)
  
