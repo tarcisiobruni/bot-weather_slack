@@ -64,7 +64,7 @@ Há um arquivo MakeFile no diretório com as intruções de execução. Mas uma 
     
     Esse comando permite identificar o quanto de confiança o modelo tem para cada umas das nossas intenções
 
-### Colaboração
+### Referências
 Esses material foi produzido a partir de uma série de outros repositórios, materiais, artigos e videos:
 
 - [Rasa HQ](https://github.com/RasaHQ/rasa) 
